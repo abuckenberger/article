@@ -1,0 +1,16 @@
+
+body {
+    font-family: Noto sans;
+    font-size: 62.5%;
+    color:gray;
+}
+
+
+@media only screen and (min-width: 768px) {
+    
+    body {
+        font-size: 12pt;
+        column-count: 2;
+    }
+    
+}
